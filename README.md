@@ -19,7 +19,7 @@ Hi, in this repository, I will dump the flash memory for the SQTD-B39 microscope
 
 # Dumping Process
 From the image above. We got the flash memory information:
-* Part Number: W25N01GVZEIG
+* Part Number: [W25N01GVZEIG](./Datasheet/1809200036_Winbond-Elec-W25N01GVZEIG_C88868.pdf)
 * Type: NAND FLASH.
 * SIZE: 1 Gbit.
 * Voltage: 3 V.
